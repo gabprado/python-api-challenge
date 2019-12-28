@@ -11,6 +11,8 @@ matplotlib = "*"
 numpy = "*"
 ipykernel = "*"
 jupyter = "*"
+citipy = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
