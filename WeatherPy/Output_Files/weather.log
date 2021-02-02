@@ -1,618 +1,617 @@
 Begining Data Retrieval
 -----------------------------
-Processing Data for City: Pringsewu | 1630639 | 0.16% Complete
-Processing Data for City: Upernavik | 3418910 | 0.33% Complete
-Processing Data for City: Port Elizabeth | 4501427 | 0.49% Complete
-Processing Data for City: Zhezkazgan | 1516589 | 0.65% Complete
-Processing Data for City: Ushuaia | 3833367 | 0.82% Complete
-Processing Data for City: Bangassou | 240498 | 0.98% Complete
-*** City Not Found. Skipping | 1.14% Complete ***
-Processing Data for City: Sao Filipe | 3374210 | 1.31% Complete
-*** City Not Found. Skipping | 1.47% Complete ***
-*** City Not Found. Skipping | 1.63% Complete ***
-Processing Data for City: Freeport | 3572375 | 1.79% Complete
-Processing Data for City: Fairbanks | 5861897 | 1.96% Complete
-Processing Data for City: Innisfail | 2162683 | 2.12% Complete
-*** City Not Found. Skipping | 2.28% Complete ***
-Processing Data for City: Cape Town | 3369157 | 2.45% Complete
-Processing Data for City: Port Alfred | 964432 | 2.61% Complete
-Processing Data for City: Bethel | 5880568 | 2.77% Complete
-Processing Data for City: Butaritari | 2110227 | 2.94% Complete
-Processing Data for City: Colesberg | 1013076 | 3.10% Complete
-Processing Data for City: Rikitea | 4030556 | 3.26% Complete
-Processing Data for City: Punta Arenas | 3874787 | 3.43% Complete
-Processing Data for City: Vaini | 1273574 | 3.59% Complete
-Processing Data for City: Aklavik | 5882953 | 3.75% Complete
-Processing Data for City: Hobart | 2163355 | 3.92% Complete
-Processing Data for City: Lebu | 344979 | 4.08% Complete
-*** City Not Found. Skipping | 4.24% Complete ***
-Processing Data for City: Mount Isa | 2065594 | 4.40% Complete
-Processing Data for City: Kaeo | 2189343 | 4.57% Complete
-Processing Data for City: Jamestown | 2069194 | 4.73% Complete
-Processing Data for City: Bucerias | 4016734 | 4.89% Complete
-Processing Data for City: Hami | 1529484 | 5.06% Complete
-*** City Not Found. Skipping | 5.22% Complete ***
-*** City Not Found. Skipping | 5.38% Complete ***
-Processing Data for City: Nanma | 1803546 | 5.55% Complete
-Processing Data for City: Busselton | 2075265 | 5.71% Complete
-*** City Not Found. Skipping | 5.87% Complete ***
-Processing Data for City: Katobu | 1640972 | 6.04% Complete
-Processing Data for City: Tuktoyaktuk | 6170031 | 6.20% Complete
-Processing Data for City: Bhawanipatna | 1276023 | 6.36% Complete
-Processing Data for City: Macau | 3395998 | 6.53% Complete
-Processing Data for City: Cayenne | 3382160 | 6.69% Complete
-Processing Data for City: Geraldton | 5960603 | 6.85% Complete
-Processing Data for City: Norman Wells | 6089245 | 7.01% Complete
-Processing Data for City: Coihaique | 3894426 | 7.18% Complete
-Processing Data for City: Waidhofen | 2815315 | 7.34% Complete
-Processing Data for City: Airai | 1651810 | 7.50% Complete
-Processing Data for City: Kapenguria | 199604 | 7.67% Complete
-Processing Data for City: Albany | 5106834 | 7.83% Complete
-Processing Data for City: Havoysund | 779622 | 7.99% Complete
-Processing Data for City: Beloha | 1067565 | 8.16% Complete
-*** City Not Found. Skipping | 8.32% Complete ***
-Processing Data for City: Bandarbeyla | 64814 | 8.48% Complete
-Processing Data for City: Avarua | 4035715 | 8.65% Complete
-Processing Data for City: Dikson | 1507390 | 8.81% Complete
-Processing Data for City: Jiwani | 1175712 | 8.97% Complete
-Processing Data for City: Esperance | 2071860 | 9.14% Complete
-Processing Data for City: Meulaboh | 1214488 | 9.30% Complete
-Processing Data for City: Pavilosta | 456827 | 9.46% Complete
-Processing Data for City: Akdepe | 601551 | 9.62% Complete
-*** City Not Found. Skipping | 9.79% Complete ***
-Processing Data for City: Cidreira | 3466165 | 9.95% Complete
-Processing Data for City: Saint-Philippe | 6138908 | 10.11% Complete
-*** City Not Found. Skipping | 10.28% Complete ***
-Processing Data for City: Mataura | 6201424 | 10.44% Complete
-Processing Data for City: Hilo | 5855927 | 10.60% Complete
-Processing Data for City: Thompson | 6165406 | 10.77% Complete
-Processing Data for City: Nianzishan | 2035593 | 10.93% Complete
-*** City Not Found. Skipping | 11.09% Complete ***
-Processing Data for City: Mahebourg | 934322 | 11.26% Complete
-Processing Data for City: Maua | 187231 | 11.42% Complete
-Processing Data for City: Caravelas | 3466980 | 11.58% Complete
-Processing Data for City: Torbay | 6167817 | 11.75% Complete
-Processing Data for City: Kapaa | 5848280 | 11.91% Complete
-Processing Data for City: Eureka | 5563397 | 12.07% Complete
-Processing Data for City: Redmond | 5808079 | 12.23% Complete
-Processing Data for City: Lompoc | 5367788 | 12.40% Complete
-Processing Data for City: Brookhaven | 5110292 | 12.56% Complete
-Processing Data for City: Minnedosa | 6074882 | 12.72% Complete
-Processing Data for City: Cumana | 3644768 | 12.89% Complete
-Processing Data for City: Longyearbyen | 2729907 | 13.05% Complete
-Processing Data for City: Ponta Delgada | 3372783 | 13.21% Complete
-Processing Data for City: Hithadhoo | 1282256 | 13.38% Complete
-Processing Data for City: Wanning | 3220813 | 13.54% Complete
-Processing Data for City: Constitucion | 4011743 | 13.70% Complete
-Processing Data for City: Saint-Augustin | 6138501 | 13.87% Complete
-*** City Not Found. Skipping | 14.03% Complete ***
-*** City Not Found. Skipping | 14.19% Complete ***
-Processing Data for City: Broome | 2656067 | 14.36% Complete
-Processing Data for City: Tasiilaq | 3424607 | 14.52% Complete
-Processing Data for City: Saint-Pierre | 2995603 | 14.68% Complete
-Processing Data for City: Ajdabiya | 89113 | 14.85% Complete
-*** City Not Found. Skipping | 15.01% Complete ***
-*** City Not Found. Skipping | 15.17% Complete ***
-Processing Data for City: Khandyga | 2022773 | 15.33% Complete
-*** City Not Found. Skipping | 15.50% Complete ***
-Processing Data for City: Mar del Plata | 3863379 | 15.66% Complete
-Processing Data for City: Puerto Escondido | 3520994 | 15.82% Complete
-Processing Data for City: Talnakh | 1490256 | 15.99% Complete
-Processing Data for City: Alofi | 4036284 | 16.15% Complete
-Processing Data for City: San Cristobal | 3609418 | 16.31% Complete
-Processing Data for City: Nuevitas | 3545841 | 16.48% Complete
-Processing Data for City: Bredasdorp | 1015776 | 16.64% Complete
-Processing Data for City: Bluff | 2175403 | 16.80% Complete
-Processing Data for City: Zhaotong | 1784841 | 16.97% Complete
-Processing Data for City: Oranjestad | 3577154 | 17.13% Complete
-Processing Data for City: Ban Tak | 1154677 | 17.29% Complete
-Processing Data for City: Sorland | 3137469 | 17.46% Complete
-Processing Data for City: Sargatskoye | 1493004 | 17.62% Complete
-Processing Data for City: San Patricio | 3437029 | 17.78% Complete
-Processing Data for City: Guiratinga | 3461733 | 17.94% Complete
-*** City Not Found. Skipping | 18.11% Complete ***
-Processing Data for City: Dayong | 1789289 | 18.27% Complete
-*** City Not Found. Skipping | 18.43% Complete ***
-Processing Data for City: Henties Bay | 3356832 | 18.60% Complete
-Processing Data for City: La Ronge | 6050066 | 18.76% Complete
-Processing Data for City: Zhigansk | 2012530 | 18.92% Complete
-*** City Not Found. Skipping | 19.09% Complete ***
-Processing Data for City: Hirado | 1862555 | 19.25% Complete
-*** City Not Found. Skipping | 19.41% Complete ***
-Processing Data for City: Coihueco | 3894406 | 19.58% Complete
-Processing Data for City: Usinsk | 863061 | 19.74% Complete
-Processing Data for City: Gao | 2457163 | 19.90% Complete
-Processing Data for City: Ulladulla | 2145554 | 20.07% Complete
-Processing Data for City: Santa Isabel do Rio Negro | 3662489 | 20.23% Complete
-Processing Data for City: Kawalu | 1640902 | 20.39% Complete
-*** City Not Found. Skipping | 20.55% Complete ***
-*** City Not Found. Skipping | 20.72% Complete ***
-*** City Not Found. Skipping | 20.88% Complete ***
-Processing Data for City: Mogadishu | 53654 | 21.04% Complete
-Processing Data for City: Uhlove | 690820 | 21.21% Complete
-Processing Data for City: Nome | 4732862 | 21.37% Complete
-Processing Data for City: San Quintin | 1688687 | 21.53% Complete
-Processing Data for City: Lingao | 1803560 | 21.70% Complete
-Processing Data for City: Bongandanga | 218229 | 21.86% Complete
-Processing Data for City: Ponta do Sol | 3453439 | 22.02% Complete
-Processing Data for City: Svetlogorsk | 584051 | 22.19% Complete
-Processing Data for City: Saskylakh | 2017155 | 22.35% Complete
-Processing Data for City: Shingu | 1847947 | 22.51% Complete
-Processing Data for City: Port Hardy | 6111862 | 22.68% Complete
-Processing Data for City: Russell | 4278471 | 22.84% Complete
-Processing Data for City: Chuy | 3443061 | 23.00% Complete
-Processing Data for City: Along | 1278969 | 23.16% Complete
-Processing Data for City: Berlevag | 780687 | 23.33% Complete
-Processing Data for City: Soubre | 2598243 | 23.49% Complete
-Processing Data for City: Berdigestyakh | 2026861 | 23.65% Complete
-*** City Not Found. Skipping | 23.82% Complete ***
-Processing Data for City: Atuona | 4020109 | 23.98% Complete
-Processing Data for City: Egvekinot | 4031742 | 24.14% Complete
-Processing Data for City: French Harbor | 3609667 | 24.31% Complete
-Processing Data for City: Ayorou | 2447416 | 24.47% Complete
-Processing Data for City: Turukhansk | 1488903 | 24.63% Complete
-Processing Data for City: Kruisfontein | 986717 | 24.80% Complete
-Processing Data for City: Nemuro | 2128975 | 24.96% Complete
-Processing Data for City: Macia | 1024701 | 25.12% Complete
-Processing Data for City: Vaitape | 4033077 | 25.29% Complete
-Processing Data for City: Asosa | 343292 | 25.45% Complete
-Processing Data for City: Hermanus | 3366880 | 25.61% Complete
-Processing Data for City: Buala | 2109528 | 25.77% Complete
-*** City Not Found. Skipping | 25.94% Complete ***
-Processing Data for City: Saint George | 262462 | 26.10% Complete
-*** City Not Found. Skipping | 26.26% Complete ***
-Processing Data for City: Puerto Ayora | 3652764 | 26.43% Complete
-Processing Data for City: Laguna | 3581398 | 26.59% Complete
-Processing Data for City: Konosha | 545353 | 26.75% Complete
-Processing Data for City: Yulara | 6355222 | 26.92% Complete
-Processing Data for City: Barrow | 3833859 | 27.08% Complete
-Processing Data for City: Rochegda | 501847 | 27.24% Complete
-Processing Data for City: Camacha | 2270385 | 27.41% Complete
-Processing Data for City: Naze | 2337542 | 27.57% Complete
-Processing Data for City: Nizwa | 286987 | 27.73% Complete
-*** City Not Found. Skipping | 27.90% Complete ***
-Processing Data for City: Bayan | 1813029 | 28.06% Complete
-*** City Not Found. Skipping | 28.22% Complete ***
-Processing Data for City: Waipawa | 2185329 | 28.38% Complete
-Processing Data for City: Ambon | 3037899 | 28.55% Complete
-Processing Data for City: Kodiak | 4407665 | 28.71% Complete
-Processing Data for City: Burnie | 2173125 | 28.87% Complete
-Processing Data for City: Vestmannaeyjar | 3412093 | 29.04% Complete
-Processing Data for City: New Norfolk | 2155415 | 29.20% Complete
-Processing Data for City: Iqaluit | 5983720 | 29.36% Complete
-Processing Data for City: Skjervoy | 777682 | 29.53% Complete
-Processing Data for City: Khatanga | 2022572 | 29.69% Complete
-Processing Data for City: Kutum | 371745 | 29.85% Complete
-Processing Data for City: Huarmey | 3939168 | 30.02% Complete
-Processing Data for City: Vao | 588365 | 30.18% Complete
-Processing Data for City: Isangel | 2136825 | 30.34% Complete
-Processing Data for City: Nuuk | 3421319 | 30.51% Complete
-Processing Data for City: Acari | 3390864 | 30.67% Complete
-Processing Data for City: Nikolskoye | 546105 | 30.83% Complete
-*** City Not Found. Skipping | 31.00% Complete ***
-Processing Data for City: Havre-Saint-Pierre | 5972291 | 31.16% Complete
-Processing Data for City: Namatanai | 2090021 | 31.32% Complete
-*** City Not Found. Skipping | 31.48% Complete ***
-Processing Data for City: Baherden | 162158 | 31.65% Complete
-Processing Data for City: Ostrovnoy | 556268 | 31.81% Complete
-*** City Not Found. Skipping | 31.97% Complete ***
-Processing Data for City: Lavrentiya | 4031637 | 32.14% Complete
-Processing Data for City: Guerrero | 3836564 | 32.30% Complete
-Processing Data for City: Kavieng | 2094342 | 32.46% Complete
-Processing Data for City: Kysyl-Syr | 2021017 | 32.63% Complete
-Processing Data for City: Qaanaaq | 3831208 | 32.79% Complete
-Processing Data for City: Ereymentau | 1524302 | 32.95% Complete
-Processing Data for City: Vila Velha | 6320062 | 33.12% Complete
-Processing Data for City: Ocosingo | 3816237 | 33.28% Complete
-Processing Data for City: Upington | 945945 | 33.44% Complete
-*** City Not Found. Skipping | 33.61% Complete ***
-Processing Data for City: Boone | 4456703 | 33.77% Complete
-Processing Data for City: Sitka | 4267710 | 33.93% Complete
-Processing Data for City: Cabra | 2520645 | 34.09% Complete
-Processing Data for City: Rajgarh | 1258875 | 34.26% Complete
-*** City Not Found. Skipping | 34.42% Complete ***
-Processing Data for City: Tuatapere | 2180815 | 34.58% Complete
-Processing Data for City: Tiksi | 2015306 | 34.75% Complete
-Processing Data for City: Santa Rosa | 3835994 | 34.91% Complete
-Processing Data for City: Panzhihua | 6929460 | 35.07% Complete
-Processing Data for City: Klaksvik | 2618795 | 35.24% Complete
-Processing Data for City: Piacabucu | 3454005 | 35.40% Complete
-Processing Data for City: Nyurba | 2018735 | 35.56% Complete
-*** City Not Found. Skipping | 35.73% Complete ***
-Processing Data for City: Amboasary | 1081790 | 35.89% Complete
-Processing Data for City: Pevek | 2122090 | 36.05% Complete
-Processing Data for City: Novokizhinginsk | 2018930 | 36.22% Complete
-Processing Data for City: Belyy Yar | 1510377 | 36.38% Complete
-Processing Data for City: Udachnyy | 2014624 | 36.54% Complete
-*** City Not Found. Skipping | 36.70% Complete ***
-Processing Data for City: Hobyo | 57000 | 36.87% Complete
-Processing Data for City: Adana | 325361 | 37.03% Complete
-Processing Data for City: Paamiut | 3421193 | 37.19% Complete
-Processing Data for City: Charlestown | 5221384 | 37.36% Complete
-*** City Not Found. Skipping | 37.52% Complete ***
-Processing Data for City: Arraial do Cabo | 3471451 | 37.68% Complete
-Processing Data for City: Touros | 3386213 | 37.85% Complete
-Processing Data for City: Kilindoni | 157429 | 38.01% Complete
-Processing Data for City: Kozluk | 306041 | 38.17% Complete
-*** City Not Found. Skipping | 38.34% Complete ***
-Processing Data for City: Fare | 4034496 | 38.50% Complete
-Processing Data for City: Mecca | 104515 | 38.66% Complete
-Processing Data for City: Calvinia | 3369174 | 38.83% Complete
-Processing Data for City: Ancud | 3899695 | 38.99% Complete
-*** City Not Found. Skipping | 39.15% Complete ***
-Processing Data for City: Carnarvon | 1014034 | 39.31% Complete
-Processing Data for City: Moranbah | 6533368 | 39.48% Complete
-Processing Data for City: Gilgit | 1178338 | 39.64% Complete
-Processing Data for City: Neyshabur | 122285 | 39.80% Complete
-Processing Data for City: Arlit | 2447513 | 39.97% Complete
-Processing Data for City: Saurimo | 145531 | 40.13% Complete
-Processing Data for City: Ust-Kulom | 478050 | 40.29% Complete
-Processing Data for City: Brae | 2654970 | 40.46% Complete
-Processing Data for City: Gravdal | 3147822 | 40.62% Complete
-Processing Data for City: Faanui | 4034551 | 40.78% Complete
-Processing Data for City: Cabo San Lucas | 3985710 | 40.95% Complete
-Processing Data for City: Pedernales | 3653307 | 41.11% Complete
-Processing Data for City: Ilulissat | 3423146 | 41.27% Complete
-Processing Data for City: Dunedin | 2191562 | 41.44% Complete
-Processing Data for City: Moss Point | 4436743 | 41.60% Complete
-Processing Data for City: Petropavlovsk-Kamchatskiy | 2122104 | 41.76% Complete
-Processing Data for City: Lodwar | 189280 | 41.92% Complete
-Processing Data for City: Provideniya | 4031574 | 42.09% Complete
-Processing Data for City: Rapar | 1258406 | 42.25% Complete
-Processing Data for City: East London | 1006984 | 42.41% Complete
-Processing Data for City: Am Timan | 245338 | 42.58% Complete
-Processing Data for City: Kananga | 214481 | 42.74% Complete
-Processing Data for City: Saint-Francois | 2980080 | 42.90% Complete
-Processing Data for City: Noumea | 2139521 | 43.07% Complete
-Processing Data for City: Port Hedland | 2063042 | 43.23% Complete
-Processing Data for City: Santa Cruz | 3389673 | 43.39% Complete
-Processing Data for City: Hay River | 5972762 | 43.56% Complete
-Processing Data for City: Sao Joao da Barra | 3448903 | 43.72% Complete
-Processing Data for City: Benguela | 3351663 | 43.88% Complete
-*** City Not Found. Skipping | 44.05% Complete ***
-*** City Not Found. Skipping | 44.21% Complete ***
-Processing Data for City: Bereda | 3105522 | 44.37% Complete
-Processing Data for City: Yellowknife | 6185377 | 44.54% Complete
-Processing Data for City: Codrington | 2160063 | 44.70% Complete
-Processing Data for City: Boyolangu | 1648082 | 44.86% Complete
-Processing Data for City: Esil | 1524296 | 45.02% Complete
-Processing Data for City: Castro | 3896218 | 45.19% Complete
-Processing Data for City: Te Anau | 2181625 | 45.35% Complete
-*** City Not Found. Skipping | 45.51% Complete ***
-Processing Data for City: Cockburn Town | 3576994 | 45.68% Complete
-Processing Data for City: Pogar | 507875 | 45.84% Complete
-Processing Data for City: Souillac | 3026644 | 46.00% Complete
-Processing Data for City: Hede | 2720382 | 46.17% Complete
-*** City Not Found. Skipping | 46.33% Complete ***
-Processing Data for City: Ampanihy | 1078553 | 46.49% Complete
-Processing Data for City: Georgetown | 3378644 | 46.66% Complete
-*** City Not Found. Skipping | 46.82% Complete ***
-*** City Not Found. Skipping | 46.98% Complete ***
-Processing Data for City: Fukue | 1848373 | 47.15% Complete
-Processing Data for City: San Bartolome | 1708026 | 47.31% Complete
-Processing Data for City: Ellwangen | 3220791 | 47.47% Complete
-Processing Data for City: Mahibadhoo | 1337605 | 47.63% Complete
-Processing Data for City: Lagoa | 2267254 | 47.80% Complete
-Processing Data for City: Grand Gaube | 934479 | 47.96% Complete
-Processing Data for City: Novyy Oskol | 516931 | 48.12% Complete
-*** City Not Found. Skipping | 48.29% Complete ***
-Processing Data for City: Buchanan | 2278158 | 48.45% Complete
-Processing Data for City: Mount Gambier | 2156643 | 48.61% Complete
-Processing Data for City: Carsamba | 749704 | 48.78% Complete
-Processing Data for City: Lakatoro | 2136697 | 48.94% Complete
-Processing Data for City: Puyang | 1798422 | 49.10% Complete
-Processing Data for City: Nouakchott | 2377450 | 49.27% Complete
-Processing Data for City: Coquimbo | 3893629 | 49.43% Complete
-Processing Data for City: Denpasar | 1645528 | 49.59% Complete
-Processing Data for City: Oktyabrskiy | 515873 | 49.76% Complete
-Processing Data for City: Taoudenni | 2450173 | 49.92% Complete
-Processing Data for City: Kieta | 2094027 | 50.08% Complete
-*** City Not Found. Skipping | 50.24% Complete ***
-Processing Data for City: Loncoche | 3882582 | 50.41% Complete
-Processing Data for City: Mabay | 3567597 | 50.57% Complete
-Processing Data for City: Mildura | 2157698 | 50.73% Complete
-Processing Data for City: West Lorne | 6179147 | 50.90% Complete
-Processing Data for City: Krutaya Gorka | 1501710 | 51.06% Complete
-Processing Data for City: Manchester | 5089178 | 51.22% Complete
-Processing Data for City: Auki | 2339937 | 51.39% Complete
-Processing Data for City: Adrar | 2508813 | 51.55% Complete
-Processing Data for City: Tautira | 4033557 | 51.71% Complete
-*** City Not Found. Skipping | 51.88% Complete ***
-Processing Data for City: Kamphaeng Phet | 1153090 | 52.04% Complete
-Processing Data for City: Muros | 3115824 | 52.20% Complete
-Processing Data for City: Deputatskiy | 2028164 | 52.37% Complete
-Processing Data for City: Katsuura | 1865309 | 52.53% Complete
-Processing Data for City: Khash | 1160571 | 52.69% Complete
-Processing Data for City: Jieshi | 1805857 | 52.85% Complete
-Processing Data for City: Kralendijk | 3513563 | 53.02% Complete
-Processing Data for City: Vallenar | 3868633 | 53.18% Complete
-Processing Data for City: Port Blair | 1259385 | 53.34% Complete
-Processing Data for City: Okhotsk | 2122605 | 53.51% Complete
-Processing Data for City: Sawtell | 2150163 | 53.67% Complete
-Processing Data for City: Christchurch | 2192362 | 53.83% Complete
-Processing Data for City: Cherskiy | 2126199 | 54.00% Complete
-Processing Data for City: Ribeira Grande | 3372707 | 54.16% Complete
-Processing Data for City: Quelimane | 1028434 | 54.32% Complete
-Processing Data for City: Muscat | 287286 | 54.49% Complete
-Processing Data for City: Nishihara | 1850144 | 54.65% Complete
-Processing Data for City: Ugoofaaru | 1337619 | 54.81% Complete
-Processing Data for City: Ayan | 117656 | 54.98% Complete
-Processing Data for City: Paramonga | 3933024 | 55.14% Complete
-Processing Data for City: Diveyevo | 566165 | 55.30% Complete
-Processing Data for City: Puerto del Rosario | 2512186 | 55.46% Complete
-Processing Data for City: Contai | 1344069 | 55.63% Complete
-Processing Data for City: Valparaiso | 4927537 | 55.79% Complete
-Processing Data for City: Praia | 3460954 | 55.95% Complete
-Processing Data for City: Aliwal North | 1023309 | 56.12% Complete
-Processing Data for City: Banda Aceh | 1215502 | 56.28% Complete
-Processing Data for City: Dashitou | 2037820 | 56.44% Complete
-Processing Data for City: Strezhevoy | 1490796 | 56.61% Complete
-Processing Data for City: Roald | 3141667 | 56.77% Complete
-Processing Data for City: Severo-Kurilsk | 2121385 | 56.93% Complete
-Processing Data for City: Weihe | 7372400 | 57.10% Complete
-Processing Data for City: Wewak | 2083537 | 57.26% Complete
-Processing Data for City: Yurga | 1485724 | 57.42% Complete
-Processing Data for City: Santa Fe | 3836277 | 57.59% Complete
-Processing Data for City: Riyadh | 108410 | 57.75% Complete
-Processing Data for City: Guerrero Negro | 4021858 | 57.91% Complete
-*** City Not Found. Skipping | 58.08% Complete ***
-Processing Data for City: George | 924963 | 58.24% Complete
-*** City Not Found. Skipping | 58.40% Complete ***
-Processing Data for City: Dolores | 3442750 | 58.56% Complete
-Processing Data for City: Mokobeng | 933313 | 58.73% Complete
-Processing Data for City: Homer | 5864145 | 58.89% Complete
-Processing Data for City: Conselheiro Pena | 3465639 | 59.05% Complete
-Processing Data for City: Sao Gabriel da Cachoeira | 3662342 | 59.22% Complete
-Processing Data for City: Maltahohe | 3355624 | 59.38% Complete
-Processing Data for City: Lake Cowichan | 6048316 | 59.54% Complete
-Processing Data for City: Omboue | 2396853 | 59.71% Complete
-*** City Not Found. Skipping | 59.87% Complete ***
-Processing Data for City: Monrovia | 2274895 | 60.03% Complete
-Processing Data for City: Isla Vista | 5359864 | 60.20% Complete
-Processing Data for City: Belem de Sao Francisco | 3405852 | 60.36% Complete
-Processing Data for City: Otjiwarongo | 3353811 | 60.52% Complete
-Processing Data for City: Lasa | 146639 | 60.69% Complete
-Processing Data for City: Galbshtadt | 1497899 | 60.85% Complete
-Processing Data for City: Deniliquin | 2169068 | 61.01% Complete
-Processing Data for City: Magnor | 2718393 | 61.17% Complete
-Processing Data for City: Saint Anthony | 5606187 | 61.34% Complete
-Processing Data for City: Honningsvag | 779554 | 61.50% Complete
-Processing Data for City: Shumyachi | 493405 | 61.66% Complete
-Processing Data for City: Makakilo City | 5850554 | 61.83% Complete
-Processing Data for City: Buin | 3897774 | 61.99% Complete
-Processing Data for City: Santa Isabel | 3996069 | 62.15% Complete
-Processing Data for City: Miles City | 5666176 | 62.32% Complete
-*** City Not Found. Skipping | 62.48% Complete ***
-Processing Data for City: Batticaloa | 1250161 | 62.64% Complete
-*** City Not Found. Skipping | 62.81% Complete ***
-Processing Data for City: Lorengau | 2092164 | 62.97% Complete
-Processing Data for City: Hue | 1580240 | 63.13% Complete
-Processing Data for City: Sinnamary | 3380290 | 63.30% Complete
-*** City Not Found. Skipping | 63.46% Complete ***
-Processing Data for City: Pangnirtung | 6096551 | 63.62% Complete
-Processing Data for City: Saldanha | 2737599 | 63.78% Complete
-Processing Data for City: Nicoya | 3622716 | 63.95% Complete
-Processing Data for City: Vicksburg | 4449620 | 64.11% Complete
-Processing Data for City: Nago | 3172402 | 64.27% Complete
-Processing Data for City: Concarneau | 3024035 | 64.44% Complete
-Processing Data for City: Kayerkan | 1497337 | 64.60% Complete
-Processing Data for City: Krasnogorskoye | 542356 | 64.76% Complete
-Processing Data for City: Ramhormoz | 118826 | 64.93% Complete
-Processing Data for City: Nacala | 1035025 | 65.09% Complete
-Processing Data for City: Nzerekore | 2416969 | 65.25% Complete
-Processing Data for City: Port Lincoln | 2063036 | 65.42% Complete
-Processing Data for City: Erzin | 296852 | 65.58% Complete
-Processing Data for City: Kangaatsiaq | 3422683 | 65.74% Complete
-Processing Data for City: Morondava | 1058381 | 65.91% Complete
-Processing Data for City: Naryan-Mar | 523392 | 66.07% Complete
-Processing Data for City: Vincennes | 6613142 | 66.23% Complete
-Processing Data for City: Kaitangata | 2208248 | 66.39% Complete
-*** City Not Found. Skipping | 66.56% Complete ***
-Processing Data for City: Ahipara | 2194098 | 66.72% Complete
-Processing Data for City: Corrales | 3685794 | 66.88% Complete
-Processing Data for City: Walvis Bay | 3359638 | 67.05% Complete
-Processing Data for City: Matay | 352628 | 67.21% Complete
-Processing Data for City: Jumla | 1283285 | 67.37% Complete
-Processing Data for City: Carnduff | 5917349 | 67.54% Complete
-Processing Data for City: Fort Nelson | 5955902 | 67.70% Complete
-Processing Data for City: Namibe | 3347019 | 67.86% Complete
-Processing Data for City: Gonda | 1270996 | 68.03% Complete
-Processing Data for City: Moindou | 2140466 | 68.19% Complete
-Processing Data for City: Delemont | 2661035 | 68.35% Complete
-Processing Data for City: Belaya Gora | 2126785 | 68.52% Complete
-Processing Data for City: San Carlos | 3616911 | 68.68% Complete
-Processing Data for City: Velka nad Velickou | 3063240 | 68.84% Complete
-Processing Data for City: Bonnyville | 5905616 | 69.00% Complete
-Processing Data for City: Marietta | 4207783 | 69.17% Complete
-Processing Data for City: Conakry | 2422465 | 69.33% Complete
-Processing Data for City: Athboy | 2966848 | 69.49% Complete
-Processing Data for City: Sabha | 2212775 | 69.66% Complete
-Processing Data for City: Alice Springs | 2077895 | 69.82% Complete
-Processing Data for City: Crotone | 2524881 | 69.98% Complete
-*** City Not Found. Skipping | 70.15% Complete ***
-Processing Data for City: Luderitz | 3355672 | 70.31% Complete
-Processing Data for City: Vokhma | 472887 | 70.47% Complete
-Processing Data for City: Chokurdakh | 2126123 | 70.64% Complete
-Processing Data for City: Kalianget | 1621395 | 70.80% Complete
-Processing Data for City: Sambava | 1056899 | 70.96% Complete
-*** City Not Found. Skipping | 71.13% Complete ***
-Processing Data for City: Jiexiu | 1805833 | 71.29% Complete
-Processing Data for City: Middelburg | 2750896 | 71.45% Complete
-Processing Data for City: Mercedes | 3441684 | 71.62% Complete
-Processing Data for City: Yerbogachen | 2012956 | 71.78% Complete
-*** City Not Found. Skipping | 71.94% Complete ***
-Processing Data for City: Sioux Lookout | 6148373 | 72.10% Complete
-Processing Data for City: Shimoda | 1852357 | 72.27% Complete
-Processing Data for City: Lewistown | 4899665 | 72.43% Complete
-Processing Data for City: Tura | 2014833 | 72.59% Complete
-Processing Data for City: Sola | 151211 | 72.76% Complete
-Processing Data for City: Tongliao | 2034400 | 72.92% Complete
-Processing Data for City: Yining | 1786538 | 73.08% Complete
-Processing Data for City: Hualmay | 3939761 | 73.25% Complete
-Processing Data for City: Gigmoto | 1712961 | 73.41% Complete
-Processing Data for City: Diego de Almagro | 3892454 | 73.57% Complete
-Processing Data for City: Marabba | 370510 | 73.74% Complete
-Processing Data for City: Ca Mau | 1586443 | 73.90% Complete
-*** City Not Found. Skipping | 74.06% Complete ***
-Processing Data for City: Rawson | 3839307 | 74.23% Complete
-Processing Data for City: Baykit | 1510689 | 74.39% Complete
-Processing Data for City: Madang | 7413703 | 74.55% Complete
-Processing Data for City: Sibolga | 1213855 | 74.71% Complete
-Processing Data for City: Danville | 5341531 | 74.88% Complete
-Processing Data for City: Pisco | 3932145 | 75.04% Complete
-Processing Data for City: Indramayu | 1624987 | 75.20% Complete
-Processing Data for City: Inta | 1505579 | 75.37% Complete
-Processing Data for City: Salinopolis | 3389822 | 75.53% Complete
-Processing Data for City: Sungairaya | 1625908 | 75.69% Complete
-Processing Data for City: Carutapera | 3402648 | 75.86% Complete
-Processing Data for City: Tual | 1623197 | 76.02% Complete
-Processing Data for City: Umm Lajj | 100926 | 76.18% Complete
-Processing Data for City: Pasuruan | 1632033 | 76.35% Complete
-Processing Data for City: Poum | 787487 | 76.51% Complete
-*** City Not Found. Skipping | 76.67% Complete ***
-Processing Data for City: Tanete | 1629965 | 76.84% Complete
-Processing Data for City: Smithers | 6149996 | 77.00% Complete
-Processing Data for City: Salalah | 286621 | 77.16% Complete
-Processing Data for City: Sobolevo | 525426 | 77.32% Complete
-Processing Data for City: Malartic | 6064704 | 77.49% Complete
-*** City Not Found. Skipping | 77.65% Complete ***
-Processing Data for City: Kaoma | 913323 | 77.81% Complete
-Processing Data for City: Tazovskiy | 1489853 | 77.98% Complete
-Processing Data for City: Avera | 4231997 | 78.14% Complete
-Processing Data for City: Nanortalik | 3421765 | 78.30% Complete
-Processing Data for City: San Isidro | 3621849 | 78.47% Complete
-Processing Data for City: Vardo | 4372777 | 78.63% Complete
-Processing Data for City: Kushalgarh | 1265452 | 78.79% Complete
-Processing Data for City: Gangakher | 1271688 | 78.96% Complete
-Processing Data for City: College | 5859699 | 79.12% Complete
-Processing Data for City: Haines Junction | 5969025 | 79.28% Complete
-Processing Data for City: Clyde River | 5924351 | 79.45% Complete
-Processing Data for City: Haapiti | 4034438 | 79.61% Complete
-Processing Data for City: Uryupinsk | 478544 | 79.77% Complete
-Processing Data for City: Aksarka | 1512019 | 79.93% Complete
-Processing Data for City: Coahuayana | 3981460 | 80.10% Complete
-Processing Data for City: Chagoda | 570086 | 80.26% Complete
-Processing Data for City: Husavik | 5961417 | 80.42% Complete
-Processing Data for City: Zarate | 3980866 | 80.59% Complete
-Processing Data for City: Vostok | 2013279 | 80.75% Complete
-Processing Data for City: Padang | 1633419 | 80.91% Complete
-Processing Data for City: Marsa Matruh | 352733 | 81.08% Complete
-Processing Data for City: Parana | 3663516 | 81.24% Complete
-*** City Not Found. Skipping | 81.40% Complete ***
-Processing Data for City: Natitingou | 2392601 | 81.57% Complete
-Processing Data for City: Kavaratti | 1267390 | 81.73% Complete
-Processing Data for City: Kambove | 923058 | 81.89% Complete
-Processing Data for City: Umarizal | 3385826 | 82.06% Complete
-Processing Data for City: Anadyr | 2127202 | 82.22% Complete
-*** City Not Found. Skipping | 82.38% Complete ***
-Processing Data for City: Bandar-e Lengeh | 141665 | 82.54% Complete
-Processing Data for City: Karasburg | 3356343 | 82.71% Complete
-Processing Data for City: Ambovombe | 1079048 | 82.87% Complete
-Processing Data for City: Mangrol | 1263751 | 83.03% Complete
-Processing Data for City: Casma | 6559781 | 83.20% Complete
-Processing Data for City: Miranda | 3457113 | 83.36% Complete
-Processing Data for City: Necochea | 3430443 | 83.52% Complete
-Processing Data for City: Moose Factory | 6078372 | 83.69% Complete
-Processing Data for City: Bedesa | 342559 | 83.85% Complete
-Processing Data for City: Los Chiles | 3623008 | 84.01% Complete
-Processing Data for City: Mitsamiouli | 921786 | 84.18% Complete
-Processing Data for City: Tayu | 1848373 | 84.34% Complete
-Processing Data for City: Gusau | 2339937 | 84.50% Complete
-Processing Data for City: Tornio | 637314 | 84.67% Complete
-Processing Data for City: Nelson Bay | 2155562 | 84.83% Complete
-Processing Data for City: Seoul | 1835848 | 84.99% Complete
-Processing Data for City: Kibala | 2425791 | 85.15% Complete
-Processing Data for City: Sabaudia | 3168764 | 85.32% Complete
-*** City Not Found. Skipping | 85.48% Complete ***
-Processing Data for City: Wajir | 178443 | 85.64% Complete
-Processing Data for City: Mongo | 2317277 | 85.81% Complete
-*** City Not Found. Skipping | 85.97% Complete ***
-Processing Data for City: Anloga | 2304548 | 86.13% Complete
-Processing Data for City: Lumphat | 1830377 | 86.30% Complete
-Processing Data for City: Menongue | 3347353 | 86.46% Complete
-Processing Data for City: Alyangula | 2079582 | 86.62% Complete
-Processing Data for City: Goderich | 5962442 | 86.79% Complete
-Processing Data for City: Bonthe | 2409914 | 86.95% Complete
-Processing Data for City: Fort Stewart | 7259778 | 87.11% Complete
-Processing Data for City: Iberia | 3938531 | 87.28% Complete
-Processing Data for City: Dongsheng | 1788268 | 87.44% Complete
-Processing Data for City: Emerald | 2167426 | 87.60% Complete
-Processing Data for City: Teya | 3526662 | 87.77% Complete
-Processing Data for City: Dukat | 3184575 | 87.93% Complete
-Processing Data for City: Goleta | 5352963 | 88.09% Complete
-*** City Not Found. Skipping | 88.25% Complete ***
-Processing Data for City: Tessalit | 2449893 | 88.42% Complete
-Processing Data for City: Maragogi | 3395458 | 88.58% Complete
-Processing Data for City: Nurota | 1513087 | 88.74% Complete
-Processing Data for City: Zonguldak | 737021 | 88.91% Complete
-Processing Data for City: Juneau | 5554072 | 89.07% Complete
-Processing Data for City: Praia da Vitoria | 3372760 | 89.23% Complete
-*** City Not Found. Skipping | 89.40% Complete ***
-Processing Data for City: Rivne | 695594 | 89.56% Complete
-Processing Data for City: Bathsheba | 3374083 | 89.72% Complete
-Processing Data for City: Narsaq | 3421719 | 89.89% Complete
-*** City Not Found. Skipping | 90.05% Complete ***
-Processing Data for City: Pinyug | 509451 | 90.21% Complete
-Processing Data for City: The Pas | 6164499 | 90.38% Complete
-Processing Data for City: Anchorage | 5879400 | 90.54% Complete
-Processing Data for City: Yenotayevka | 467479 | 90.70% Complete
-Processing Data for City: Arman | 2127060 | 90.86% Complete
-Processing Data for City: Puerto El Triunfo | 3584003 | 91.03% Complete
-Processing Data for City: Zhumadian | 1783873 | 91.19% Complete
-Processing Data for City: Inuvik | 5983607 | 91.35% Complete
-Processing Data for City: Bowen | 2174444 | 91.52% Complete
-Processing Data for City: Cassia | 4153146 | 91.68% Complete
-Processing Data for City: Heswall | 2647026 | 91.84% Complete
-Processing Data for City: Tezu | 1254709 | 92.01% Complete
-Processing Data for City: Nioro | 2413070 | 92.17% Complete
-Processing Data for City: Thinadhoo | 1337610 | 92.33% Complete
-Processing Data for City: Cap Malheureux | 934649 | 92.50% Complete
-Processing Data for City: Gualaquiza | 3657661 | 92.66% Complete
-Processing Data for City: Kahului | 5847411 | 92.82% Complete
-Processing Data for City: Cabedelo | 3404558 | 92.99% Complete
-Processing Data for City: Muisne | 3653967 | 93.15% Complete
-Processing Data for City: Le Vauclin | 3570392 | 93.31% Complete
-Processing Data for City: Helensburgh | 2163641 | 93.47% Complete
-Processing Data for City: Sur | 286245 | 93.64% Complete
-Processing Data for City: Nkhotakota | 924705 | 93.80% Complete
-Processing Data for City: Blairmore | 5903535 | 93.96% Complete
-Processing Data for City: Shenzhen | 1795565 | 94.13% Complete
-Processing Data for City: Mulchen | 3879200 | 94.29% Complete
-Processing Data for City: Warri | 2319133 | 94.45% Complete
-Processing Data for City: Ozinki | 513328 | 94.62% Complete
-*** City Not Found. Skipping | 94.78% Complete ***
-Processing Data for City: Opuwo | 3354077 | 94.94% Complete
-Processing Data for City: New Waterford | 5164449 | 95.11% Complete
-*** City Not Found. Skipping | 95.27% Complete ***
-Processing Data for City: Bambous Virieux | 1106677 | 95.43% Complete
-Processing Data for City: Yar-Sale | 1486321 | 95.60% Complete
-Processing Data for City: Aykhal | 2027296 | 95.76% Complete
-Processing Data for City: Sikonge | 149929 | 95.92% Complete
-Processing Data for City: Kidal | 2455290 | 96.08% Complete
-Processing Data for City: Kindu | 212902 | 96.25% Complete
-Processing Data for City: Raudeberg | 3146487 | 96.41% Complete
-Processing Data for City: Srivardhan | 1255619 | 96.57% Complete
-Processing Data for City: Gazojak | 1514792 | 96.74% Complete
-Processing Data for City: Den Helder | 2757220 | 96.90% Complete
-Processing Data for City: Birjand | 140463 | 97.06% Complete
-Processing Data for City: Garissa | 197745 | 97.23% Complete
-Processing Data for City: Hailar | 2037078 | 97.39% Complete
-Processing Data for City: Vila Franca do Campo | 3372472 | 97.55% Complete
-Processing Data for City: Tomatlan | 3981391 | 97.72% Complete
-Processing Data for City: Syracuse | 5140405 | 97.88% Complete
-Processing Data for City: Port-Gentil | 2396518 | 98.04% Complete
-Processing Data for City: Iskateley | 866062 | 98.21% Complete
-Processing Data for City: Wajid | 50814 | 98.37% Complete
-Processing Data for City: Pochutla | 3517970 | 98.53% Complete
-*** City Not Found. Skipping | 98.69% Complete ***
-Processing Data for City: Acu | 3663524 | 98.86% Complete
-Processing Data for City: Macamic | 6062563 | 99.02% Complete
-Processing Data for City: Topolobampo | 3981345 | 99.18% Complete
-Processing Data for City: Pontian Kecil | 1732711 | 99.35% Complete
-Processing Data for City: Ponta Pora | 3453150 | 99.51% Complete
-Processing Data for City: Abu Samrah | 172515 | 99.67% Complete
-Processing Data for City: Puerto Baquerizo Moreno | 3652758 | 99.84% Complete
-Processing Data for City: Mehamn | 778707 | 100.00% Complete
+Processing Data for City: Busselton | 2075265 | 0.16% Complete
+Processing Data for City: Medicine Hat | 6071618 | 0.33% Complete
+Processing Data for City: Hermanus | 3366880 | 0.49% Complete
+Processing Data for City: Rikitea | 4030556 | 0.65% Complete
+Processing Data for City: Barrow | 5880054 | 0.82% Complete
+Processing Data for City: Ust-Maya | 2013918 | 0.98% Complete
+Processing Data for City: La Troncal | 3654853 | 1.14% Complete
+*** City Not Found. Skipping | 1.31% Complete ***
+Processing Data for City: Tuatapere | 2180815 | 1.47% Complete
+Processing Data for City: Yuzhno-Kurilsk | 2119447 | 1.63% Complete
+Processing Data for City: Norman Wells | 6089245 | 1.80% Complete
+Processing Data for City: Robertsport | 2274275 | 1.96% Complete
+Processing Data for City: Tasiilaq | 3424607 | 2.12% Complete
+Processing Data for City: Vestmannaeyjar | 3412093 | 2.29% Complete
+Processing Data for City: Saint-Pierre | 935214 | 2.45% Complete
+Processing Data for City: Mataura | 6201424 | 2.61% Complete
+Processing Data for City: ‘Āhuimanu | 5856516 | 2.78% Complete
+Processing Data for City: Adré | 245669 | 2.94% Complete
+Processing Data for City: Black Diamond | 5787423 | 3.10% Complete
+Processing Data for City: Port Alfred | 964432 | 3.27% Complete
+Processing Data for City: Turaif | 101312 | 3.43% Complete
+Processing Data for City: Omboué | 2396853 | 3.59% Complete
+*** City Not Found. Skipping | 3.76% Complete ***
+Processing Data for City: Bredasdorp | 1015776 | 3.92% Complete
+Processing Data for City: Cedar City | 5536630 | 4.08% Complete
+Processing Data for City: Bluff | 2206939 | 4.25% Complete
+*** City Not Found. Skipping | 4.41% Complete ***
+Processing Data for City: San Cristobal | 3628473 | 4.58% Complete
+Processing Data for City: Makkah al Mukarramah | 104515 | 4.74% Complete
+Processing Data for City: Rosetown | 6127749 | 4.90% Complete
+Processing Data for City: Bom Jesus | 3405304 | 5.07% Complete
+Processing Data for City: Villarrica | 3436714 | 5.23% Complete
+*** City Not Found. Skipping | 5.39% Complete ***
+Processing Data for City: Port Elizabeth | 964420 | 5.56% Complete
+Processing Data for City: Iwaki | 2112539 | 5.72% Complete
+Processing Data for City: Khatanga | 2022572 | 5.88% Complete
+Processing Data for City: Chaozhou | 1815395 | 6.05% Complete
+Processing Data for City: Albany | 5106841 | 6.21% Complete
+Processing Data for City: Deputatsky | 2028164 | 6.37% Complete
+Processing Data for City: Zhigansk | 2012530 | 6.54% Complete
+Processing Data for City: Oktyabr'skoye | 515805 | 6.70% Complete
+Processing Data for City: Pevek | 2122090 | 6.86% Complete
+*** City Not Found. Skipping | 7.03% Complete ***
+Processing Data for City: Puerto Ayora | 3652764 | 7.19% Complete
+Processing Data for City: Cowansville | 5931074 | 7.35% Complete
+Processing Data for City: Coquimbo | 3893629 | 7.52% Complete
+Processing Data for City: Atuona | 4020109 | 7.68% Complete
+Processing Data for City: Rockhampton | 2151437 | 7.84% Complete
+Processing Data for City: Hauterive | 3013748 | 8.01% Complete
+Processing Data for City: Saint-Philippe | 935215 | 8.17% Complete
+Processing Data for City: Hithadhoo | 1282256 | 8.33% Complete
+Processing Data for City: Sovetskaya Gavan' | 2121052 | 8.50% Complete
+Processing Data for City: Rawson | 3839307 | 8.66% Complete
+Processing Data for City: Esperance | 2071860 | 8.82% Complete
+Processing Data for City: Sola | 2134814 | 8.99% Complete
+Processing Data for City: Ribeira Grande | 3372707 | 9.15% Complete
+Processing Data for City: Salalah | 286621 | 9.31% Complete
+Processing Data for City: Rio Grande | 3451138 | 9.48% Complete
+Processing Data for City: Marawi | 1701054 | 9.64% Complete
+Processing Data for City: Qaanaaq | 3831208 | 9.80% Complete
+Processing Data for City: Sept-Îles | 6144312 | 9.97% Complete
+Processing Data for City: Yellowknife | 6185377 | 10.13% Complete
+*** City Not Found. Skipping | 10.29% Complete ***
+Processing Data for City: Lethem | 3379316 | 10.46% Complete
+Processing Data for City: Avarua | 4035715 | 10.62% Complete
+Processing Data for City: Warwick | 5225507 | 10.78% Complete
+Processing Data for City: Nieves | 1697696 | 10.95% Complete
+Processing Data for City: Şabyā | 102651 | 11.11% Complete
+Processing Data for City: Great Yarmouth | 2647984 | 11.27% Complete
+Processing Data for City: Khuzdar | 7082481 | 11.44% Complete
+*** City Not Found. Skipping | 11.60% Complete ***
+Processing Data for City: Katima Mulilo | 877178 | 11.76% Complete
+Processing Data for City: Byron Bay | 2172880 | 11.93% Complete
+Processing Data for City: Vaini | 4032243 | 12.09% Complete
+Processing Data for City: Kavieng | 2094342 | 12.25% Complete
+Processing Data for City: Port Hardy | 6111862 | 12.42% Complete
+Processing Data for City: Ushuaia | 3833367 | 12.58% Complete
+Processing Data for City: Thompson | 6165406 | 12.75% Complete
+Processing Data for City: Xinzhi | 1788462 | 12.91% Complete
+Processing Data for City: Dikson | 1507390 | 13.07% Complete
+*** City Not Found. Skipping | 13.24% Complete ***
+Processing Data for City: Hay River | 5972762 | 13.40% Complete
+Processing Data for City: Ponta do Sol | 2264557 | 13.56% Complete
+Processing Data for City: Heidelberg | 997151 | 13.73% Complete
+Processing Data for City: Tilichiki | 2120591 | 13.89% Complete
+Processing Data for City: Homer | 5864145 | 14.05% Complete
+Processing Data for City: Weligama | 1223738 | 14.22% Complete
+Processing Data for City: Sitka | 5557293 | 14.38% Complete
+Processing Data for City: Kavaratti | 1267390 | 14.54% Complete
+Processing Data for City: Dordrecht | 2756669 | 14.71% Complete
+Processing Data for City: Tarko-Sale | 1490085 | 14.87% Complete
+Processing Data for City: Aklavik | 5882953 | 15.03% Complete
+Processing Data for City: Castro | 3466704 | 15.20% Complete
+Processing Data for City: Jamestown | 5122534 | 15.36% Complete
+Processing Data for City: Nikolskoye | 546105 | 15.52% Complete
+Processing Data for City: ‘Ewa Beach | 5855051 | 15.69% Complete
+Processing Data for City: Bahār | 142000 | 15.85% Complete
+Processing Data for City: Dunedin | 2191562 | 16.01% Complete
+Processing Data for City: George Town | 1735106 | 16.18% Complete
+Processing Data for City: Butaritari | 2110227 | 16.34% Complete
+Processing Data for City: Iqaluit | 5983720 | 16.50% Complete
+Processing Data for City: Hobart | 2163355 | 16.67% Complete
+Processing Data for City: Biak | 1637001 | 16.83% Complete
+Processing Data for City: Santa Maria | 3450083 | 16.99% Complete
+Processing Data for City: Kapaa | 5848280 | 17.16% Complete
+Processing Data for City: Punta Arenas | 3874787 | 17.32% Complete
+Processing Data for City: San Mateo del Mar | 3518382 | 17.48% Complete
+*** City Not Found. Skipping | 17.65% Complete ***
+Processing Data for City: Mahébourg | 934322 | 17.81% Complete
+Processing Data for City: Cape Town | 3369157 | 17.97% Complete
+*** City Not Found. Skipping | 18.14% Complete ***
+Processing Data for City: Hamilton | 4513583 | 18.30% Complete
+Processing Data for City: Bethel | 5282297 | 18.46% Complete
+Processing Data for City: Chippewa Falls | 5248511 | 18.63% Complete
+Processing Data for City: Tabou | 2281120 | 18.79% Complete
+Processing Data for City: Morón | 3430545 | 18.95% Complete
+Processing Data for City: Upernavik | 3418910 | 19.12% Complete
+*** City Not Found. Skipping | 19.28% Complete ***
+Processing Data for City: Saldanha | 3361934 | 19.44% Complete
+*** City Not Found. Skipping | 19.61% Complete ***
+Processing Data for City: Mīzan Teferī | 330534 | 19.77% Complete
+Processing Data for City: Bengkulu | 1649150 | 19.93% Complete
+Processing Data for City: Ségou | 2451478 | 20.10% Complete
+Processing Data for City: Hong Kong | 1819729 | 20.26% Complete
+Processing Data for City: Wanaka | 2184707 | 20.42% Complete
+Processing Data for City: Balkhash | 1525798 | 20.59% Complete
+Processing Data for City: Ruteng | 1629380 | 20.75% Complete
+Processing Data for City: São João da Barra | 3448903 | 20.92% Complete
+Processing Data for City: Fare | 4034496 | 21.08% Complete
+Processing Data for City: Tuktoyaktuk | 6170031 | 21.24% Complete
+Processing Data for City: Maningrida | 2067089 | 21.41% Complete
+*** City Not Found. Skipping | 21.57% Complete ***
+Processing Data for City: Port Lincoln | 2063036 | 21.73% Complete
+Processing Data for City: Severo-Kuril'sk | 2121385 | 21.90% Complete
+Processing Data for City: New Norfolk | 2155415 | 22.06% Complete
+Processing Data for City: Paamiut | 3421193 | 22.22% Complete
+Processing Data for City: Ossora | 2122389 | 22.39% Complete
+Processing Data for City: Hilo | 5855927 | 22.55% Complete
+Processing Data for City: Arraial do Cabo | 3471451 | 22.71% Complete
+Processing Data for City: Porto-Novo | 2392087 | 22.88% Complete
+Processing Data for City: Mar del Plata | 3430863 | 23.04% Complete
+Processing Data for City: Tautira | 4033557 | 23.20% Complete
+Processing Data for City: Provideniya | 4031574 | 23.37% Complete
+Processing Data for City: Chegdomyn | 2025579 | 23.53% Complete
+*** City Not Found. Skipping | 23.69% Complete ***
+Processing Data for City: Rey Bouba | 2222439 | 23.86% Complete
+Processing Data for City: Usmajac | 3980756 | 24.02% Complete
+Processing Data for City: Insch | 2646157 | 24.18% Complete
+Processing Data for City: Northam | 2641434 | 24.35% Complete
+Processing Data for City: Alice Springs | 2077895 | 24.51% Complete
+Processing Data for City: Swan Hill | 2147756 | 24.67% Complete
+*** City Not Found. Skipping | 24.84% Complete ***
+Processing Data for City: East London | 1006984 | 25.00% Complete
+Processing Data for City: Chernyshevskiy | 2025456 | 25.16% Complete
+Processing Data for City: Codrington | 2171099 | 25.33% Complete
+Processing Data for City: Sakaiminato | 1853174 | 25.49% Complete
+Processing Data for City: Faanui | 4034551 | 25.65% Complete
+Processing Data for City: Flinders | 6255012 | 25.82% Complete
+Processing Data for City: Villa Rica | 4228452 | 25.98% Complete
+Processing Data for City: Clyde River | 5924351 | 26.14% Complete
+Processing Data for City: La Palma | 5364022 | 26.31% Complete
+Processing Data for City: Necochea | 3430443 | 26.47% Complete
+Processing Data for City: Pittsfield | 4947459 | 26.63% Complete
+Processing Data for City: Cartagena | 3687238 | 26.80% Complete
+Processing Data for City: Torbay | 6167817 | 26.96% Complete
+*** City Not Found. Skipping | 27.12% Complete ***
+Processing Data for City: Port Keats | 2063039 | 27.29% Complete
+Processing Data for City: Velikiy Ustyug | 476062 | 27.45% Complete
+Processing Data for City: Lima | 3936456 | 27.61% Complete
+Processing Data for City: Kloulklubed | 7671223 | 27.78% Complete
+Processing Data for City: Kupang | 2057087 | 27.94% Complete
+Processing Data for City: Juneau | 5554072 | 28.10% Complete
+Processing Data for City: Puerto Escondido | 3520994 | 28.27% Complete
+*** City Not Found. Skipping | 28.43% Complete ***
+*** City Not Found. Skipping | 28.59% Complete ***
+Processing Data for City: Lorengau | 2092164 | 28.76% Complete
+Processing Data for City: Cabo San Lucas | 3985710 | 28.92% Complete
+Processing Data for City: Saskylakh | 2017155 | 29.08% Complete
+Processing Data for City: Queenstown | 963516 | 29.25% Complete
+Processing Data for City: Ustynivka | 690600 | 29.41% Complete
+Processing Data for City: High Level | 5975004 | 29.58% Complete
+Processing Data for City: Ludwigsfelde | 2875379 | 29.74% Complete
+Processing Data for City: Bambous Virieux | 1106677 | 29.90% Complete
+Processing Data for City: San Patricio | 3985168 | 30.07% Complete
+Processing Data for City: Pulaski | 4127619 | 30.23% Complete
+Processing Data for City: Shumskiy | 1491977 | 30.39% Complete
+Processing Data for City: Constitución | 3893726 | 30.56% Complete
+Processing Data for City: Carnarvon | 2074865 | 30.72% Complete
+Processing Data for City: Pacific Grove | 5380437 | 30.88% Complete
+Processing Data for City: Fairbanks | 5861897 | 31.05% Complete
+Processing Data for City: Tonantins | 3661894 | 31.21% Complete
+Processing Data for City: Brăduţ | 683924 | 31.37% Complete
+Processing Data for City: Caceres | 2520610 | 31.54% Complete
+Processing Data for City: Mossamedes | 3347019 | 31.70% Complete
+Processing Data for City: Becerril | 3689026 | 31.86% Complete
+Processing Data for City: Nuuk | 3421319 | 32.03% Complete
+Processing Data for City: São Sebastião | 3448257 | 32.19% Complete
+Processing Data for City: Saint-Hyacinthe | 6138374 | 32.35% Complete
+Processing Data for City: Port Blair | 1259385 | 32.52% Complete
+Processing Data for City: Trelew | 3833883 | 32.68% Complete
+Processing Data for City: Bosaso | 64013 | 32.84% Complete
+Processing Data for City: Lebu | 3883457 | 33.01% Complete
+Processing Data for City: Mount Gambier | 2156643 | 33.17% Complete
+*** City Not Found. Skipping | 33.33% Complete ***
+Processing Data for City: Alta Floresta | 6316343 | 33.50% Complete
+Processing Data for City: Cairns | 2172797 | 33.66% Complete
+Processing Data for City: Freeport | 5117949 | 33.82% Complete
+Processing Data for City: Lata | 2738381 | 33.99% Complete
+Processing Data for City: Yulara | 6355222 | 34.15% Complete
+Processing Data for City: Tay Ninh | 1566559 | 34.31% Complete
+Processing Data for City: Narimanov | 523443 | 34.48% Complete
+Processing Data for City: Krasnyy Chikoy | 2012349 | 34.64% Complete
+Processing Data for City: Banjar | 1650232 | 34.80% Complete
+Processing Data for City: São Filipe | 3374210 | 34.97% Complete
+Processing Data for City: Nieuw Amsterdam | 3383434 | 35.13% Complete
+Processing Data for City: Saint Paul Harbor | 5866583 | 35.29% Complete
+Processing Data for City: Fomboni | 921889 | 35.46% Complete
+*** City Not Found. Skipping | 35.62% Complete ***
+Processing Data for City: College | 5859699 | 35.78% Complete
+Processing Data for City: Lavrentiya | 4031637 | 35.95% Complete
+Processing Data for City: Levice | 3059101 | 36.11% Complete
+Processing Data for City: Korla | 1529376 | 36.27% Complete
+Processing Data for City: Tevaitoa | 4033375 | 36.44% Complete
+Processing Data for City: Vila Velha | 3445026 | 36.60% Complete
+Processing Data for City: Zaysan | 1517060 | 36.76% Complete
+Processing Data for City: Laas | 3175096 | 36.93% Complete
+Processing Data for City: Yangi Marg`ilon | 1513491 | 37.09% Complete
+Processing Data for City: Cidreira | 3466165 | 37.25% Complete
+Processing Data for City: Margate | 2643044 | 37.42% Complete
+Processing Data for City: Saint George | 5546220 | 37.58% Complete
+Processing Data for City: Laguna | 5364271 | 37.75% Complete
+Processing Data for City: Avera | 4231997 | 37.91% Complete
+Processing Data for City: Cayenne | 3382160 | 38.07% Complete
+Processing Data for City: Birjand | 140463 | 38.24% Complete
+Processing Data for City: Yüksekova | 296173 | 38.40% Complete
+Processing Data for City: Sibolga | 1213855 | 38.56% Complete
+Processing Data for City: Makat | 608872 | 38.73% Complete
+Processing Data for City: Klaksvík | 2618795 | 38.89% Complete
+Processing Data for City: Russell | 4047434 | 39.05% Complete
+Processing Data for City: North Bend | 5742974 | 39.22% Complete
+Processing Data for City: Sørland | 3137469 | 39.38% Complete
+Processing Data for City: Emerald | 2167426 | 39.54% Complete
+Processing Data for City: Bayan | 2038421 | 39.71% Complete
+Processing Data for City: San Angelo | 5530022 | 39.87% Complete
+Processing Data for City: Palmer | 4946620 | 40.03% Complete
+Processing Data for City: Karpathos | 260895 | 40.20% Complete
+Processing Data for City: Port Hedland | 2063042 | 40.36% Complete
+Processing Data for City: Dekar | 933815 | 40.52% Complete
+Processing Data for City: Teknāf | 1185095 | 40.69% Complete
+Processing Data for City: Mthatha | 946058 | 40.85% Complete
+Processing Data for City: Esil | 1524296 | 41.01% Complete
+Processing Data for City: Ugoofaaru | 1337619 | 41.18% Complete
+Processing Data for City: Florianópolis | 6323121 | 41.34% Complete
+Processing Data for City: Ipixuna | 3408424 | 41.50% Complete
+Processing Data for City: Palu | 1633034 | 41.67% Complete
+*** City Not Found. Skipping | 41.83% Complete ***
+Processing Data for City: Orcopampa | 3933986 | 41.99% Complete
+Processing Data for City: Maniitsoq | 3421982 | 42.16% Complete
+Processing Data for City: Ilebo | 215976 | 42.32% Complete
+*** City Not Found. Skipping | 42.48% Complete ***
+Processing Data for City: Usinsk | 863061 | 42.65% Complete
+Processing Data for City: Larkollen | 3148138 | 42.81% Complete
+Processing Data for City: Tārānagar | 1254908 | 42.97% Complete
+Processing Data for City: Lompoc | 5367788 | 43.14% Complete
+Processing Data for City: Safi | 2537881 | 43.30% Complete
+Processing Data for City: Bull Savanna | 3491161 | 43.46% Complete
+Processing Data for City: Ahipara | 2194098 | 43.63% Complete
+Processing Data for City: Banyumas | 1650095 | 43.79% Complete
+Processing Data for City: Key West | 4160812 | 43.95% Complete
+Processing Data for City: Pangody | 1495626 | 44.12% Complete
+Processing Data for City: Longyearbyen | 2729907 | 44.28% Complete
+Processing Data for City: Arrondissement de Marseille | 2995468 | 44.44% Complete
+Processing Data for City: Kruisfontein | 986717 | 44.61% Complete
+Processing Data for City: Manta | 3654410 | 44.77% Complete
+*** City Not Found. Skipping | 44.93% Complete ***
+Processing Data for City: Karratha | 6620339 | 45.10% Complete
+Processing Data for City: Geraldton | 2070998 | 45.26% Complete
+Processing Data for City: Henties Bay | 3356832 | 45.42% Complete
+Processing Data for City: Leonidovo | 2123805 | 45.59% Complete
+Processing Data for City: Dzaoudzi | 921900 | 45.75% Complete
+Processing Data for City: Kapra | 1269843 | 45.92% Complete
+Processing Data for City: Písek | 3068293 | 46.08% Complete
+Processing Data for City: Dongfeng | 2037658 | 46.24% Complete
+Processing Data for City: Taoudenni | 2450173 | 46.41% Complete
+Processing Data for City: Leningradskiy | 2123814 | 46.57% Complete
+Processing Data for City: Reyes | 3906478 | 46.73% Complete
+Processing Data for City: Seoul | 1835848 | 46.90% Complete
+*** City Not Found. Skipping | 47.06% Complete ***
+*** City Not Found. Skipping | 47.22% Complete ***
+Processing Data for City: Egvekinot | 4031742 | 47.39% Complete
+Processing Data for City: Larap | 1707233 | 47.55% Complete
+Processing Data for City: Makakilo City | 5850554 | 47.71% Complete
+Processing Data for City: Saint Anthony | 5044290 | 47.88% Complete
+Processing Data for City: Lüderitz | 3355672 | 48.04% Complete
+Processing Data for City: Bathsheba | 3374083 | 48.20% Complete
+Processing Data for City: Nome | 5870133 | 48.37% Complete
+Processing Data for City: Coahuayana Viejo | 4013679 | 48.53% Complete
+Processing Data for City: Christchurch | 2192362 | 48.69% Complete
+Processing Data for City: Njombe | 151479 | 48.86% Complete
+Processing Data for City: Riyadh | 108410 | 49.02% Complete
+Processing Data for City: Half Moon Bay | 5354943 | 49.18% Complete
+Processing Data for City: Aykhal | 2027296 | 49.35% Complete
+Processing Data for City: San Juan | 3837213 | 49.51% Complete
+Processing Data for City: Vanimo | 2084442 | 49.67% Complete
+Processing Data for City: Isangel | 2136825 | 49.84% Complete
+Processing Data for City: Arcata | 5558953 | 50.00% Complete
+*** City Not Found. Skipping | 50.16% Complete ***
+Processing Data for City: Port Macquarie | 2152659 | 50.33% Complete
+Processing Data for City: Mildura | 2157698 | 50.49% Complete
+Processing Data for City: Qaqortoq | 3420846 | 50.65% Complete
+Processing Data for City: Akdepe | 601551 | 50.82% Complete
+Processing Data for City: Kahului | 5847411 | 50.98% Complete
+Processing Data for City: Acapulco de Juárez | 3533462 | 51.14% Complete
+*** City Not Found. Skipping | 51.31% Complete ***
+Processing Data for City: Alofi | 4036284 | 51.47% Complete
+Processing Data for City: Airai | 1651810 | 51.63% Complete
+Processing Data for City: Lithgow | 2160053 | 51.80% Complete
+Processing Data for City: Ilulissat | 3423146 | 51.96% Complete
+Processing Data for City: Kanniyākumāri | 1268008 | 52.12% Complete
+Processing Data for City: Quang Ngai | 1568770 | 52.29% Complete
+Processing Data for City: Ola | 2122574 | 52.45% Complete
+Processing Data for City: Assiut | 359783 | 52.61% Complete
+*** City Not Found. Skipping | 52.78% Complete ***
+Processing Data for City: Ankazobe | 1072849 | 52.94% Complete
+Processing Data for City: San Fernando del Valle de Catamarca | 3837702 | 53.10% Complete
+Processing Data for City: Banjarmasin | 1650213 | 53.27% Complete
+Processing Data for City: Carutapera | 3402648 | 53.43% Complete
+Processing Data for City: Baykit | 1510689 | 53.59% Complete
+Processing Data for City: Port Augusta | 2063056 | 53.76% Complete
+Processing Data for City: Souillac | 933995 | 53.92% Complete
+Processing Data for City: San Policarpo | 1688696 | 54.08% Complete
+Processing Data for City: Kalmunai | 1242110 | 54.25% Complete
+Processing Data for City: Shiyan | 1794903 | 54.41% Complete
+Processing Data for City: Kampot | 1831112 | 54.58% Complete
+Processing Data for City: Chokurdakh | 2126123 | 54.74% Complete
+Processing Data for City: Rundu | 3353383 | 54.90% Complete
+Processing Data for City: Antofagasta | 3899539 | 55.07% Complete
+Processing Data for City: Burdur | 320392 | 55.23% Complete
+Processing Data for City: Te Anau | 2181625 | 55.39% Complete
+Processing Data for City: Luoyang | 1801792 | 55.56% Complete
+Processing Data for City: Zhangye | 1785036 | 55.72% Complete
+Processing Data for City: Vuktyl | 470905 | 55.88% Complete
+Processing Data for City: Wittlich | 2807240 | 56.05% Complete
+Processing Data for City: Cuamba | 1047660 | 56.21% Complete
+Processing Data for City: Torre Pacheco | 2510271 | 56.37% Complete
+Processing Data for City: That Phanom | 1605483 | 56.54% Complete
+Processing Data for City: Marzuq | 72181 | 56.70% Complete
+Processing Data for City: Ust'-Kulom | 478050 | 56.86% Complete
+Processing Data for City: Fortuna | 5563839 | 57.03% Complete
+Processing Data for City: Hofn | 2630299 | 57.19% Complete
+Processing Data for City: La Santisima Trinidad | 3902377 | 57.35% Complete
+Processing Data for City: Carahue | 3896774 | 57.52% Complete
+Processing Data for City: Ürümqi | 1529102 | 57.68% Complete
+Processing Data for City: Sinnamary | 3380290 | 57.84% Complete
+Processing Data for City: Petropavlovsk-Kamchatskiy | 2122104 | 58.01% Complete
+Processing Data for City: Itarema | 3393692 | 58.17% Complete
+Processing Data for City: Najrān | 103630 | 58.33% Complete
+Processing Data for City: Nikolayevsk-on-Amur | 2122850 | 58.50% Complete
+Processing Data for City: Panshi | 2035511 | 58.66% Complete
+Processing Data for City: Esim | 2303611 | 58.82% Complete
+Processing Data for City: Aras | 3129839 | 58.99% Complete
+Processing Data for City: Rafaela | 3839479 | 59.15% Complete
+Processing Data for City: Sorong | 1626542 | 59.31% Complete
+Processing Data for City: Kindu | 212902 | 59.48% Complete
+Processing Data for City: Rāmpur | 1258599 | 59.64% Complete
+Processing Data for City: Nānākuli | 5851349 | 59.80% Complete
+Processing Data for City: Burnie | 2173125 | 59.97% Complete
+Processing Data for City: Formosa | 3433899 | 60.13% Complete
+*** City Not Found. Skipping | 60.29% Complete ***
+Processing Data for City: La Asuncion | 3480908 | 60.46% Complete
+Processing Data for City: Kyren | 2021031 | 60.62% Complete
+Processing Data for City: Qom | 119208 | 60.78% Complete
+Processing Data for City: Salmon Arm | 6139416 | 60.95% Complete
+Processing Data for City: Eenhana | 3357804 | 61.11% Complete
+Processing Data for City: Onguday | 1496130 | 61.27% Complete
+Processing Data for City: Mayumba | 2399001 | 61.44% Complete
+Processing Data for City: Boende | 218680 | 61.60% Complete
+Processing Data for City: Tura | 1254046 | 61.76% Complete
+Processing Data for City: Imbituba | 3461370 | 61.93% Complete
+*** City Not Found. Skipping | 62.09% Complete ***
+Processing Data for City: Taltal | 3870243 | 62.25% Complete
+Processing Data for City: Fort Nelson | 5955902 | 62.42% Complete
+Processing Data for City: Tiksi | 2015306 | 62.58% Complete
+Processing Data for City: Gold Coast | 2165087 | 62.75% Complete
+Processing Data for City: Kalat | 1175296 | 62.91% Complete
+Processing Data for City: Namie | 2111704 | 63.07% Complete
+Processing Data for City: Gizo Government Station | 2108857 | 63.24% Complete
+*** City Not Found. Skipping | 63.40% Complete ***
+Processing Data for City: Praia da Vitória | 3372760 | 63.56% Complete
+Processing Data for City: Vardø | 777019 | 63.73% Complete
+Processing Data for City: Mount Isa | 2065594 | 63.89% Complete
+Processing Data for City: Shingū | 1847947 | 64.05% Complete
+*** City Not Found. Skipping | 64.22% Complete ***
+Processing Data for City: Lagoa | 3372964 | 64.38% Complete
+Processing Data for City: Bac Lieu | 1591474 | 64.54% Complete
+Processing Data for City: Wundanyi | 178073 | 64.71% Complete
+Processing Data for City: Padang | 1633419 | 64.87% Complete
+Processing Data for City: Manavālakurichi | 1263942 | 65.03% Complete
+Processing Data for City: Los Llanos de Aridane | 2514651 | 65.20% Complete
+Processing Data for City: Waipawa | 2206874 | 65.36% Complete
+Processing Data for City: Araouane | 2460954 | 65.52% Complete
+Processing Data for City: Gua Musang | 1734651 | 65.69% Complete
+Processing Data for City: Acri | 2525772 | 65.85% Complete
+Processing Data for City: Yanam | 1252795 | 66.01% Complete
+Processing Data for City: Bonavista | 5905393 | 66.18% Complete
+Processing Data for City: Jurm | 1139085 | 66.34% Complete
+Processing Data for City: Husavik | 2629833 | 66.50% Complete
+*** City Not Found. Skipping | 66.67% Complete ***
+Processing Data for City: Bereda | 3105522 | 66.83% Complete
+*** City Not Found. Skipping | 66.99% Complete ***
+Processing Data for City: Miastko | 3092080 | 67.16% Complete
+Processing Data for City: Gisors | 3015926 | 67.32% Complete
+Processing Data for City: East Wenatchee Bench | 5793272 | 67.48% Complete
+Processing Data for City: Manyana | 933416 | 67.65% Complete
+Processing Data for City: Kalengwa | 915285 | 67.81% Complete
+Processing Data for City: La Romana | 3500957 | 67.97% Complete
+Processing Data for City: Bilibino | 2126682 | 68.14% Complete
+Processing Data for City: Novobiryusinskiy | 1497142 | 68.30% Complete
+Processing Data for City: Zheleznodorozhnyy | 463355 | 68.46% Complete
+Processing Data for City: Cherskiy | 2126199 | 68.63% Complete
+Processing Data for City: Iranshahr | 1160939 | 68.79% Complete
+Processing Data for City: Namatanai | 2090021 | 68.95% Complete
+Processing Data for City: Gamboula | 2386756 | 69.12% Complete
+Processing Data for City: Naze | 1855540 | 69.28% Complete
+Processing Data for City: Sur | 286245 | 69.44% Complete
+Processing Data for City: Ilhabela | 3461425 | 69.61% Complete
+Processing Data for City: Taunggyi | 1293960 | 69.77% Complete
+Processing Data for City: Chicama | 3698359 | 69.93% Complete
+Processing Data for City: Colquiri | 3919715 | 70.10% Complete
+Processing Data for City: San Vicente | 3428068 | 70.26% Complete
+Processing Data for City: Whitehorse | 6180550 | 70.42% Complete
+Processing Data for City: Vaitape | 4033077 | 70.59% Complete
+Processing Data for City: Borogontsy | 2026160 | 70.75% Complete
+Processing Data for City: Chapais | 5919850 | 70.92% Complete
+Processing Data for City: Saint-Augustin | 6137462 | 71.08% Complete
+*** City Not Found. Skipping | 71.24% Complete ***
+Processing Data for City: Tonekābon | 112656 | 71.41% Complete
+Processing Data for City: Khovd | 1516048 | 71.57% Complete
+Processing Data for City: Narsaq | 3421719 | 71.73% Complete
+Processing Data for City: Chui | 3443061 | 71.90% Complete
+Processing Data for City: Örnsköldsvik | 2686469 | 72.06% Complete
+Processing Data for City: Olafsvik | 3414079 | 72.22% Complete
+Processing Data for City: Monopoli | 6541257 | 72.39% Complete
+Processing Data for City: Camargo | 4013724 | 72.55% Complete
+Processing Data for City: Katherine | 2068655 | 72.71% Complete
+Processing Data for City: Nioro | 2412408 | 72.88% Complete
+*** City Not Found. Skipping | 73.04% Complete ***
+Processing Data for City: City of San Pedro | 1688781 | 73.20% Complete
+Processing Data for City: Burns Lake | 5911745 | 73.37% Complete
+Processing Data for City: Poum | 2138555 | 73.53% Complete
+Processing Data for City: Nixa | 4400648 | 73.69% Complete
+Processing Data for City: Champerico | 3598787 | 73.86% Complete
+Processing Data for City: Grindavik | 3416888 | 74.02% Complete
+Processing Data for City: Quelimane | 1028434 | 74.18% Complete
+Processing Data for City: Talaya | 2120769 | 74.35% Complete
+Processing Data for City: Noumea | 2139521 | 74.51% Complete
+Processing Data for City: Nizhniy Odes | 520552 | 74.67% Complete
+Processing Data for City: Kijabe | 192202 | 74.84% Complete
+Processing Data for City: Athabasca | 5887916 | 75.00% Complete
+Processing Data for City: Oktyabr'skiy | 515879 | 75.16% Complete
+*** City Not Found. Skipping | 75.33% Complete ***
+Processing Data for City: Atbasar | 1526038 | 75.49% Complete
+Processing Data for City: Saint-Jean-de-Braye | 2979341 | 75.65% Complete
+Processing Data for City: Bubaque | 2374583 | 75.82% Complete
+Processing Data for City: Ailigandí | 3714956 | 75.98% Complete
+Processing Data for City: Honiara | 2108502 | 76.14% Complete
+Processing Data for City: Talnakh | 1490256 | 76.31% Complete
+Processing Data for City: Barentu | 342711 | 76.47% Complete
+Processing Data for City: Kathmandu | 1283240 | 76.63% Complete
+Processing Data for City: Mayo | 4362001 | 76.80% Complete
+Processing Data for City: Kenai | 5866063 | 76.96% Complete
+Processing Data for City: Maracaçumé | 3395497 | 77.12% Complete
+Processing Data for City: Kaeo | 2189343 | 77.29% Complete
+Processing Data for City: Tignère | 2221513 | 77.45% Complete
+Processing Data for City: Folldal | 3156868 | 77.61% Complete
+Processing Data for City: Loukhi | 533964 | 77.78% Complete
+Processing Data for City: Nanortalik | 3421765 | 77.94% Complete
+*** City Not Found. Skipping | 78.10% Complete ***
+Processing Data for City: Saint-Louis | 2246451 | 78.27% Complete
+Processing Data for City: Denpasar | 1645528 | 78.43% Complete
+Processing Data for City: Nouadhibou | 2377457 | 78.59% Complete
+Processing Data for City: Locri | 2524371 | 78.76% Complete
+Processing Data for City: Abnūb | 362973 | 78.92% Complete
+Processing Data for City: Aktas | 1526619 | 79.08% Complete
+Processing Data for City: Bara | 2347758 | 79.25% Complete
+Processing Data for City: Goālpāra | 1271151 | 79.41% Complete
+Processing Data for City: Bantou | 1796663 | 79.58% Complete
+Processing Data for City: Neiafu | 4032420 | 79.74% Complete
+Processing Data for City: Santa Cruz Cabrália | 3450288 | 79.90% Complete
+Processing Data for City: Bonnyville | 5905616 | 80.07% Complete
+*** City Not Found. Skipping | 80.23% Complete ***
+Processing Data for City: Burē | 341397 | 80.39% Complete
+Processing Data for City: Pisco | 3932145 | 80.56% Complete
+Processing Data for City: Tulagi | 2102384 | 80.72% Complete
+*** City Not Found. Skipping | 80.88% Complete ***
+Processing Data for City: Forestville | 4355274 | 81.05% Complete
+Processing Data for City: Sangar | 2017215 | 81.21% Complete
+Processing Data for City: Beyneu | 610298 | 81.37% Complete
+Processing Data for City: Kyabram | 2160910 | 81.54% Complete
+Processing Data for City: Moree | 2156927 | 81.70% Complete
+Processing Data for City: Aden | 415189 | 81.86% Complete
+Processing Data for City: Brae | 2654970 | 82.03% Complete
+Processing Data for City: Palmas | 3474574 | 82.19% Complete
+Processing Data for City: Yenagoa | 2318123 | 82.35% Complete
+Processing Data for City: Sokoni | 149812 | 82.52% Complete
+Processing Data for City: Pilas | 2512578 | 82.68% Complete
+Processing Data for City: Veydelevka | 473856 | 82.84% Complete
+Processing Data for City: Loreto | 3998291 | 83.01% Complete
+Processing Data for City: Abhā | 110690 | 83.17% Complete
+Processing Data for City: Kirakira | 2178753 | 83.33% Complete
+Processing Data for City: Atar | 2381334 | 83.50% Complete
+Processing Data for City: Sun Prairie | 5275020 | 83.66% Complete
+Processing Data for City: Saint-Joseph | 6690296 | 83.82% Complete
+Processing Data for City: Zabul Province | 1121143 | 83.99% Complete
+Processing Data for City: Kyzyl | 1500973 | 84.15% Complete
+Processing Data for City: Abalak | 1512223 | 84.31% Complete
+*** City Not Found. Skipping | 84.48% Complete ***
+*** City Not Found. Skipping | 84.64% Complete ***
+Processing Data for City: Río Gallegos | 3838859 | 84.80% Complete
+Processing Data for City: Tessalit | 2449893 | 84.97% Complete
+Processing Data for City: Jumla | 1283285 | 85.13% Complete
+Processing Data for City: Nabire | 1634614 | 85.29% Complete
+Processing Data for City: Phra Nakhon Si Ayutthaya | 1607530 | 85.46% Complete
+Processing Data for City: Kabalo | 215668 | 85.62% Complete
+Processing Data for City: Florø | 3156980 | 85.78% Complete
+Processing Data for City: Rudnogorsk | 2017378 | 85.95% Complete
+Processing Data for City: Coyhaique | 3894426 | 86.11% Complete
+Processing Data for City: Necoclí | 3673974 | 86.27% Complete
+Processing Data for City: Zemio | 235826 | 86.44% Complete
+Processing Data for City: Rapid Valley | 5768244 | 86.60% Complete
+Processing Data for City: San Ramon | 5392593 | 86.76% Complete
+Processing Data for City: Canavieiras | 3467577 | 86.93% Complete
+Processing Data for City: Ferlach | 2779640 | 87.09% Complete
+Processing Data for City: Takaka | 2181997 | 87.25% Complete
+Processing Data for City: Staryy Nadym | 1490918 | 87.42% Complete
+Processing Data for City: Opuwo | 3354077 | 87.58% Complete
+Processing Data for City: Santa Barbara | 5392952 | 87.75% Complete
+Processing Data for City: Kasane | 933677 | 87.91% Complete
+Processing Data for City: Cham | 2661228 | 88.07% Complete
+Processing Data for City: Haines Junction | 5969025 | 88.24% Complete
+Processing Data for City: Blairmore | 5903535 | 88.40% Complete
+Processing Data for City: Mataram | 1635882 | 88.56% Complete
+Processing Data for City: Honningsvåg | 779554 | 88.73% Complete
+Processing Data for City: Kaitangata | 2208248 | 88.89% Complete
+Processing Data for City: Belmonte | 3470137 | 89.05% Complete
+Processing Data for City: Ertil' | 563420 | 89.22% Complete
+Processing Data for City: Linqing | 1803367 | 89.38% Complete
+Processing Data for City: Baiyin | 1817240 | 89.54% Complete
+Processing Data for City: Vostok | 2013279 | 89.71% Complete
+Processing Data for City: Nemuro | 2128975 | 89.87% Complete
+Processing Data for City: Faya | 110690 | 90.03% Complete
+Processing Data for City: Katsuura | 2112309 | 90.20% Complete
+Processing Data for City: Aksu | 1529660 | 90.36% Complete
+Processing Data for City: Martil | 2542987 | 90.52% Complete
+Processing Data for City: Beni | 219057 | 90.69% Complete
+Processing Data for City: Gatesville | 4693150 | 90.85% Complete
+Processing Data for City: Broken Hill | 2173911 | 91.01% Complete
+Processing Data for City: Province of Mantua | 3174050 | 91.18% Complete
+Processing Data for City: Lugovoy | 1521293 | 91.34% Complete
+Processing Data for City: Kudahuvadhoo | 1337607 | 91.50% Complete
+Processing Data for City: Sioux Lookout | 6148373 | 91.67% Complete
+Processing Data for City: Honolulu | 5856195 | 91.83% Complete
+Processing Data for City: Minot | 5690532 | 91.99% Complete
+Processing Data for City: Rodolfo Sánchez Taboada | 3996737 | 92.16% Complete
+Processing Data for City: Hūn | 2216645 | 92.32% Complete
+Processing Data for City: Sabang | 1214026 | 92.48% Complete
+Processing Data for City: Rocha | 3440777 | 92.65% Complete
+Processing Data for City: Port-Cartier | 6111696 | 92.81% Complete
+Processing Data for City: Uvarovka | 477629 | 92.97% Complete
+Processing Data for City: Santoña | 3109527 | 93.14% Complete
+Processing Data for City: Arkhangelsk | 581049 | 93.30% Complete
+Processing Data for City: Porto Walter | 3662761 | 93.46% Complete
+Processing Data for City: Guane | 3557758 | 93.63% Complete
+Processing Data for City: Praia | 3374333 | 93.79% Complete
+Processing Data for City: Ternate | 1624041 | 93.95% Complete
+Processing Data for City: Turukhansk | 1488903 | 94.12% Complete
+*** City Not Found. Skipping | 94.28% Complete ***
+Processing Data for City: Hailar | 2037078 | 94.44% Complete
+Processing Data for City: Yabrūd | 162627 | 94.61% Complete
+Processing Data for City: Dawson Creek | 5935804 | 94.77% Complete
+Processing Data for City: Lamu | 189741 | 94.93% Complete
+Processing Data for City: Tabligbo | 2364041 | 95.10% Complete
+Processing Data for City: Menongue | 3347353 | 95.26% Complete
+Processing Data for City: Port-Gentil | 2396518 | 95.42% Complete
+*** City Not Found. Skipping | 95.59% Complete ***
+Processing Data for City: Grand Gaube | 934479 | 95.75% Complete
+Processing Data for City: Kabelvåg | 3150639 | 95.92% Complete
+Processing Data for City: Mugumu | 152663 | 96.08% Complete
+Processing Data for City: Coari | 3664539 | 96.24% Complete
+Processing Data for City: Boguchany | 1509844 | 96.41% Complete
+Processing Data for City: Pueblo Nuevo | 4007676 | 96.57% Complete
+Processing Data for City: Matagami | 6067747 | 96.73% Complete
+Processing Data for City: Chimbote | 3698304 | 96.90% Complete
+Processing Data for City: Filingué | 2444995 | 97.06% Complete
+Processing Data for City: Adrar | 2381972 | 97.22% Complete
+Processing Data for City: Pakxan | 1655140 | 97.39% Complete
+Processing Data for City: Itoman | 1861280 | 97.55% Complete
+Processing Data for City: Hirara | 1862505 | 97.71% Complete
+Processing Data for City: Pouébo | 2138607 | 97.88% Complete
+Processing Data for City: Karlstad | 2701680 | 98.04% Complete
+Processing Data for City: Westport | 4845585 | 98.20% Complete
+Processing Data for City: Mana | 3381041 | 98.37% Complete
+Processing Data for City: Nagyoroszi | 3047606 | 98.53% Complete
+Processing Data for City: Uberaba | 3445839 | 98.69% Complete
+Processing Data for City: Hualmay | 3939761 | 98.86% Complete
+Processing Data for City: Kraskino | 2021644 | 99.02% Complete
+Processing Data for City: Nyagan | 1496476 | 99.18% Complete
+Processing Data for City: Tari | 2322495 | 99.35% Complete
+Processing Data for City: The Valley | 3573374 | 99.51% Complete
+Processing Data for City: Kununurra | 2068110 | 99.67% Complete
+Processing Data for City: Beringovskiy | 2126710 | 99.84% Complete
+Processing Data for City: Tvøroyri | 2611060 | 100.00% Complete
 -----------------------------
 Data Retrieval Complete
 -----------------------------
